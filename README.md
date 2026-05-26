@@ -1,6 +1,6 @@
 # php-ajax-codespace
 A starter repo for building a PHP enabled CodeSpace
-This is a simple setup for running PHP with AJAX inside GitHub Codespaces.
+This is a simple setup for running PHP with AJAX/Fetch inside GitHub Codespaces.
 
 ## Getting Started
 
@@ -18,3 +18,4 @@ Now you're ready to test `index.html` and AJAX to `server.php`.
 - Built-in server on port 3000
 - Forwarded port for testing
 - AJAX fetch example
+- Troubleshooting appears on the page, optionally
